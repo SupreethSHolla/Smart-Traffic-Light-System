@@ -116,3 +116,11 @@ If both roads are empty:
 - AI traffic prediction
 - Camera-based detection
 - Cloud analytics
+
+---
+
+# Report
+
+[Embedded Project Report.pdf](https://github.com/user-attachments/files/27476563/Embedded.Project.Report.pdf)
+
+---
